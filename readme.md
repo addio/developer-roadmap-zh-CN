@@ -6,11 +6,6 @@
 
 接下来你将会看到一组图表，它们展示了成为前端开发、后端开发或者 devops 时可以选择的路线以及技术。这些图表是我为我的一位老教授制作的，他想要分享一些关于它们的概况给他的大学生们。
 
-***
-
-<p align="center"><b>👋 You might be interested in ES Guy – Weekly booklet on Frontend Development </b><br> <a href="http://esguy.com">Read the details and Subscribe here</a></p>
-
-***
 <sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
 ## 声明
@@ -58,11 +53,7 @@
 ## 赞助
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [Highig - Think and its done](http://highig.com/)
 
 ## 许可协议
 
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-
-> 译注：我也不知道为什么作者的 README 是 CC BY 4.0 但是图片是 CC0
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
