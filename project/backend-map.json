@@ -1708,7 +1708,7 @@
                     "ID": "53",
                     "typeID": "Label",
                     "zOrder": "53",
-                    "measuredW": "147",
+                    "measuredW": "148",
                     "measuredH": "40",
                     "x": "598",
                     "y": "127",
@@ -1770,7 +1770,7 @@
                     "ID": "56",
                     "typeID": "Label",
                     "zOrder": "56",
-                    "measuredW": "294",
+                    "measuredW": "295",
                     "measuredH": "25",
                     "x": "994",
                     "y": "63",
@@ -1891,7 +1891,7 @@
                     "ID": "63",
                     "typeID": "Label",
                     "zOrder": "63",
-                    "measuredW": "5",
+                    "measuredW": "6",
                     "measuredH": "21",
                     "x": "550",
                     "y": "251",
@@ -1979,7 +1979,7 @@
                     "typeID": "Label",
                     "zOrder": "69",
                     "w": "68",
-                    "measuredW": "60",
+                    "measuredW": "61",
                     "measuredH": "25",
                     "x": "1029",
                     "y": "370",
@@ -2154,7 +2154,7 @@
                     "typeID": "Label",
                     "zOrder": "81",
                     "w": "61",
-                    "measuredW": "51",
+                    "measuredW": "52",
                     "measuredH": "25",
                     "x": "312",
                     "y": "331",
@@ -2183,7 +2183,7 @@
                     "typeID": "Label",
                     "zOrder": "83",
                     "w": "68",
-                    "measuredW": "45",
+                    "measuredW": "46",
                     "measuredH": "25",
                     "x": "311",
                     "y": "286",
@@ -2211,7 +2211,7 @@
                     "ID": "85",
                     "typeID": "Label",
                     "zOrder": "85",
-                    "measuredW": "308",
+                    "measuredW": "309",
                     "measuredH": "25",
                     "x": "550",
                     "y": "415",
@@ -2271,7 +2271,7 @@
                     "typeID": "Label",
                     "zOrder": "89",
                     "w": "68",
-                    "measuredW": "56",
+                    "measuredW": "57",
                     "measuredH": "25",
                     "x": "1033",
                     "y": "431",
@@ -2301,7 +2301,7 @@
                     "typeID": "Label",
                     "zOrder": "91",
                     "w": "68",
-                    "measuredW": "37",
+                    "measuredW": "38",
                     "measuredH": "25",
                     "x": "1034",
                     "y": "477",
@@ -2329,7 +2329,7 @@
                     "ID": "93",
                     "typeID": "Label",
                     "zOrder": "93",
-                    "measuredW": "264",
+                    "measuredW": "265",
                     "measuredH": "25",
                     "x": "550",
                     "y": "461",
@@ -2359,7 +2359,7 @@
                     "typeID": "Label",
                     "zOrder": "95",
                     "w": "68",
-                    "measuredW": "36",
+                    "measuredW": "37",
                     "measuredH": "25",
                     "x": "312",
                     "y": "486",
@@ -2389,7 +2389,7 @@
                     "typeID": "Label",
                     "zOrder": "97",
                     "w": "47",
-                    "measuredW": "38",
+                    "measuredW": "39",
                     "measuredH": "25",
                     "x": "313",
                     "y": "532",
@@ -2404,7 +2404,7 @@
                     "typeID": "TextArea",
                     "zOrder": "98",
                     "w": "465",
-                    "h": "215",
+                    "h": "180",
                     "measuredW": "200",
                     "measuredH": "140",
                     "x": "838",
@@ -2476,7 +2476,7 @@
                     "y": "665",
                     "properties": {
                         "size": "17",
-                        "text": "那么就不要选择另一门脚本语言了，试试看 Golang、Rust"
+                        "text": "那么就不要选择其它的脚本语言了，试试看 Golang、Rust"
                     }
                 },
                 {
@@ -2496,7 +2496,7 @@
                     "ID": "105",
                     "typeID": "Label",
                     "zOrder": "105",
-                    "measuredW": "5",
+                    "measuredW": "6",
                     "measuredH": "25",
                     "x": "852",
                     "y": "720",
@@ -2553,7 +2553,7 @@
                     "ID": "109",
                     "typeID": "Label",
                     "zOrder": "109",
-                    "measuredW": "8",
+                    "measuredW": "9",
                     "measuredH": "21",
                     "x": "386",
                     "y": "597",
@@ -2573,7 +2573,7 @@
                     "y": "619",
                     "properties": {
                         "size": "17",
-                        "text": "使用你所选择的语言练习并制作一些命令行"
+                        "text": "使用你所选择的语言练习，编写一些命令行"
                     }
                 },
                 {
@@ -2642,46 +2642,46 @@
                     "y": "742",
                     "properties": {
                         "size": "17",
-                        "text": "实现一些你正在使用的命令，例如 `ls`"
+                        "text": "实现一些你正在使用的指令，例如 `ls`"
                     }
                 },
                 {
                     "ID": "116",
                     "typeID": "Label",
                     "zOrder": "116",
-                    "measuredW": "424",
+                    "measuredW": "425",
                     "measuredH": "25",
                     "x": "168",
                     "y": "768",
                     "properties": {
                         "size": "17",
-                        "text": "能够爬取并保存 reddit 上 /r/programming 的帖子的命令"
+                        "text": "能够爬取并保存 reddit 上 /r/programming 的帖子的程序"
                     }
                 },
                 {
                     "ID": "117",
                     "typeID": "Label",
                     "zOrder": "117",
-                    "measuredW": "380",
+                    "measuredW": "381",
                     "measuredH": "25",
                     "x": "168",
                     "y": "794",
                     "properties": {
                         "size": "17",
-                        "text": "能够将你的文件夹结构以 JSON 的形式列出的命令"
+                        "text": "能够将你的文件夹结构以 JSON 的形式列出的程序"
                     }
                 },
                 {
                     "ID": "118",
                     "typeID": "Label",
                     "zOrder": "118",
-                    "measuredW": "414",
+                    "measuredW": "415",
                     "measuredH": "25",
                     "x": "168",
                     "y": "820",
                     "properties": {
                         "size": "17",
-                        "text": "能够读取你之前创建的 JSON 并创建文件夹结构的命令"
+                        "text": "能够读取你之前创建的 JSON 并创建文件夹结构的程序"
                     }
                 },
                 {
@@ -2694,7 +2694,7 @@
                     "y": "846",
                     "properties": {
                         "size": "17",
-                        "text": "思考一些你每天都做的任务，尝试让它自动化"
+                        "text": "思考一些你每天都在做的事，尝试让它自动化"
                     }
                 },
                 {
@@ -2779,7 +2779,7 @@
                     "y": "914",
                     "properties": {
                         "size": "17",
-                        "text": "包管理工具能帮助你将额外的依赖引入你的应用，以及制作"
+                        "text": "包管理工具能帮助你将外部的依赖引入你的应用，以及制作"
                     }
                 },
                 {
@@ -2799,13 +2799,13 @@
                     "ID": "127",
                     "typeID": "Label",
                     "zOrder": "127",
-                    "measuredW": "340",
+                    "measuredW": "374",
                     "measuredH": "25",
                     "x": "813",
                     "y": "827",
                     "properties": {
                         "size": "17",
-                        "text": "学习如何使用你所选择的语言的包管理工具，"
+                        "text": "学习如何使用你所选择的语言对应的包管理工具，"
                     }
                 },
                 {
@@ -2883,26 +2883,26 @@
                     "ID": "133",
                     "typeID": "Label",
                     "zOrder": "133",
-                    "measuredW": "527",
+                    "measuredW": "425",
                     "measuredH": "25",
                     "x": "204",
                     "y": "1028",
                     "properties": {
                         "size": "17",
-                        "text": "任何一门编程语言都有属于它自己的标准语法以及做事情的最佳实践。"
+                        "text": "任何一门编程语言都有它自己的语法标准以及最佳实践。"
                     }
                 },
                 {
                     "ID": "134",
                     "typeID": "Label",
                     "zOrder": "134",
-                    "measuredW": "391",
+                    "measuredW": "425",
                     "measuredH": "25",
                     "x": "204",
                     "y": "1050",
                     "properties": {
                         "size": "17",
-                        "text": "学习那些适合你选择的语言的标准与最佳实践。例如"
+                        "text": "学习那些适合你选择的语言的语法标准与最佳实践。例如"
                     }
                 },
                 {
@@ -2990,7 +2990,7 @@
                     "ID": "141",
                     "typeID": "Label",
                     "zOrder": "141",
-                    "measuredW": "160",
+                    "measuredW": "161",
                     "measuredH": "25",
                     "x": "207",
                     "y": "1177",
@@ -3047,20 +3047,20 @@
                     "ID": "145",
                     "typeID": "Label",
                     "zOrder": "145",
-                    "measuredW": "408",
+                    "measuredW": "391",
                     "measuredH": "25",
                     "x": "207",
                     "y": "1230",
                     "properties": {
                         "size": "17",
-                        "text": "确保你已经遵循了你在此之前学习到的标准和最佳实践"
+                        "text": "别忘了遵循你在此之前学习到的语法标准和最佳实践"
                     }
                 },
                 {
                     "ID": "146",
                     "typeID": "Label",
                     "zOrder": "146",
-                    "measuredW": "5",
+                    "measuredW": "6",
                     "measuredH": "25",
                     "x": "207",
                     "y": "1254",
@@ -3073,7 +3073,7 @@
                     "ID": "147",
                     "typeID": "Label",
                     "zOrder": "147",
-                    "measuredW": "256",
+                    "measuredW": "257",
                     "measuredH": "25",
                     "x": "813",
                     "y": "880",
@@ -3139,13 +3139,13 @@
                     "ID": "152",
                     "typeID": "Label",
                     "zOrder": "152",
-                    "measuredW": "303",
+                    "measuredW": "255",
                     "measuredH": "25",
                     "x": "209",
                     "y": "1410",
                     "properties": {
                         "size": "17",
-                        "text": "查看 open 状态的 issue 并尝试解决它们"
+                        "text": "查看开启的 issue 并尝试解决它们"
                     }
                 },
                 {
@@ -3210,7 +3210,7 @@
                     "ID": "157",
                     "typeID": "Label",
                     "zOrder": "157",
-                    "measuredW": "8",
+                    "measuredW": "9",
                     "measuredH": "21",
                     "x": "804",
                     "y": "1377",
@@ -3224,13 +3224,13 @@
                     "ID": "158",
                     "typeID": "Label",
                     "zOrder": "158",
-                    "measuredW": "510",
+                    "measuredW": "493",
                     "measuredH": "25",
                     "x": "830",
                     "y": "1402",
                     "properties": {
                         "size": "17",
-                        "text": "测试类型实际上有好几种，不过现在先了解一下如何用你所选的语言"
+                        "text": "测试类型有很多种，不过现在先了解一下如何使用你所选择的语言"
                     }
                 },
                 {
@@ -3250,13 +3250,13 @@
                     "ID": "160",
                     "typeID": "Label",
                     "zOrder": "160",
-                    "measuredW": "332",
+                    "measuredW": "316",
                     "measuredH": "25",
                     "x": "829",
                     "y": "1454",
                     "properties": {
                         "size": "17",
-                        "text": "了解不同的测试术语，例如 mocks, stubs 等"
+                        "text": "了解不同的测试术语，例如 mock, stub 等"
                     }
                 },
                 {
@@ -3290,7 +3290,7 @@
                     "ID": "163",
                     "typeID": "Label",
                     "zOrder": "163",
-                    "measuredW": "440",
+                    "measuredW": "441",
                     "measuredH": "25",
                     "x": "791",
                     "y": "1125",
@@ -3316,7 +3316,7 @@
                     "ID": "165",
                     "typeID": "Label",
                     "zOrder": "165",
-                    "measuredW": "309",
+                    "measuredW": "310",
                     "measuredH": "25",
                     "x": "792",
                     "y": "1193",
@@ -3329,7 +3329,7 @@
                     "ID": "166",
                     "typeID": "Label",
                     "zOrder": "166",
-                    "measuredW": "421",
+                    "measuredW": "422",
                     "measuredH": "25",
                     "x": "792",
                     "y": "1221",
@@ -3348,7 +3348,7 @@
                     "y": "1264",
                     "properties": {
                         "size": "17",
-                        "text": "而对于其他的，我不想挑起任何争端，所以我不会在此提出更多的建议，"
+                        "text": "而对于其他的，我不想挑起任何争端，所以我不会在此给出更多的建议，"
                     }
                 },
                 {
@@ -3439,7 +3439,7 @@
                     "ID": "174",
                     "typeID": "Label",
                     "zOrder": "174",
-                    "measuredW": "5",
+                    "measuredW": "6",
                     "measuredH": "25",
                     "x": "832",
                     "y": "1598",
@@ -3452,13 +3452,13 @@
                     "ID": "175",
                     "typeID": "Label",
                     "zOrder": "175",
-                    "measuredW": "439",
+                    "measuredW": "457",
                     "measuredH": "25",
                     "x": "203",
                     "y": "1099",
                     "properties": {
                         "size": "17",
-                        "text": "它们 (there are many different driven by community) 等。"
+                        "text": "的标准 (there are many different driven by community) 等。"
                     }
                 },
                 {
@@ -3521,7 +3521,7 @@
                     "ID": "180",
                     "typeID": "Label",
                     "zOrder": "180",
-                    "measuredW": "306",
+                    "measuredW": "307",
                     "measuredH": "24",
                     "x": "411",
                     "y": "1584",
@@ -3567,7 +3567,7 @@
                     "typeID": "TextInput",
                     "zOrder": "183",
                     "w": "121",
-                    "measuredW": "75",
+                    "measuredW": "76",
                     "measuredH": "32",
                     "x": "110",
                     "y": "1612",
@@ -3652,20 +3652,20 @@
                     "y": "1613",
                     "properties": {
                         "size": "17",
-                        "text": "同样这里有很多选择。然而只要你学习了其中"
+                        "text": "这里同样有很多选择。然而只要你学习了其中"
                     }
                 },
                 {
                     "ID": "189",
                     "typeID": "Label",
                     "zOrder": "189",
-                    "measuredW": "289",
+                    "measuredW": "323",
                     "measuredH": "25",
                     "x": "382",
                     "y": "1637",
                     "properties": {
                         "size": "17",
-                        "text": "一个，那么其他的将会变得非常简单。"
+                        "text": "一个，那么学习其他的将会变得非常简单。"
                     }
                 },
                 {
@@ -3678,20 +3678,20 @@
                     "y": "1662",
                     "properties": {
                         "size": "17",
-                        "text": "现在先选择 *MySQL*，不过也要学习它们之间"
+                        "text": "现在先试试 *MySQL*，不过也要了解它们之间"
                     }
                 },
                 {
                     "ID": "191",
                     "typeID": "Label",
                     "zOrder": "191",
-                    "measuredW": "255",
+                    "measuredW": "272",
                     "measuredH": "25",
                     "x": "382",
                     "y": "1686",
                     "properties": {
                         "size": "17",
-                        "text": "存在着什么样的区别以及使用环境"
+                        "text": "存在着什么样的差异以及使用的环境"
                     }
                 },
                 {
@@ -3795,20 +3795,20 @@
                     "ID": "199",
                     "typeID": "Label",
                     "zOrder": "199",
-                    "measuredW": "289",
+                    "measuredW": "357",
                     "measuredH": "25",
                     "x": "829",
                     "y": "1788",
                     "properties": {
                         "size": "17",
-                        "text": "然后公开页面将显示他们发布的文章。"
+                        "text": "然后在公开的个人主页上显示他们发布的文章。"
                     }
                 },
                 {
                     "ID": "200",
                     "typeID": "Label",
                     "zOrder": "200",
-                    "measuredW": "5",
+                    "measuredW": "6",
                     "measuredH": "25",
                     "x": "829",
                     "y": "1813",
@@ -3835,13 +3835,13 @@
                     "ID": "202",
                     "typeID": "Label",
                     "zOrder": "202",
-                    "measuredW": "340",
+                    "measuredW": "374",
                     "measuredH": "25",
                     "x": "155",
                     "y": "1767",
                     "properties": {
                         "size": "17",
-                        "text": "别忘了编写测试代码，遵循标准和最佳实践。"
+                        "text": "别忘了编写测试代码，遵循编码标准和最佳实践。"
                     }
                 },
                 {
@@ -4002,7 +4002,7 @@
                     "ID": "214",
                     "typeID": "Label",
                     "zOrder": "214",
-                    "measuredW": "570",
+                    "measuredW": "571",
                     "measuredH": "25",
                     "x": "804",
                     "y": "1952",
@@ -4112,7 +4112,7 @@
                     "ID": "222",
                     "typeID": "Label",
                     "zOrder": "222",
-                    "measuredW": "501",
+                    "measuredW": "502",
                     "measuredH": "25",
                     "x": "161",
                     "y": "1994",
@@ -4169,7 +4169,7 @@
                     "ID": "226",
                     "typeID": "Label",
                     "zOrder": "226",
-                    "measuredW": "344",
+                    "measuredW": "345",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2058",
@@ -4270,7 +4270,7 @@
                     "typeID": "TextInput",
                     "zOrder": "233",
                     "w": "185",
-                    "measuredW": "103",
+                    "measuredW": "104",
                     "measuredH": "32",
                     "x": "1023",
                     "y": "2164",
@@ -4286,7 +4286,7 @@
                     "typeID": "TextInput",
                     "zOrder": "234",
                     "w": "185",
-                    "measuredW": "91",
+                    "measuredW": "92",
                     "measuredH": "32",
                     "x": "1023",
                     "y": "2123",
@@ -4318,7 +4318,7 @@
                     "typeID": "TextInput",
                     "zOrder": "236",
                     "w": "157",
-                    "measuredW": "105",
+                    "measuredW": "106",
                     "measuredH": "32",
                     "x": "1215",
                     "y": "2163",
@@ -4378,7 +4378,7 @@
                     "ID": "240",
                     "typeID": "Label",
                     "zOrder": "240",
-                    "measuredW": "13",
+                    "measuredW": "14",
                     "measuredH": "21",
                     "x": "770",
                     "y": "2265",
@@ -4393,13 +4393,13 @@
                     "typeID": "Label",
                     "zOrder": "241",
                     "w": "574",
-                    "measuredW": "446",
+                    "measuredW": "412",
                     "measuredH": "25",
                     "x": "800",
                     "y": "2290",
                     "properties": {
                         "size": "17",
-                        "text": "学习如何使用 Redis 或者 Memcached 实现应用层面的缓存"
+                        "text": "学习如何使用 Redis 或者 Memcached 实现应用层缓存"
                     }
                 },
                 {
@@ -4407,7 +4407,7 @@
                     "typeID": "TextInput",
                     "zOrder": "242",
                     "w": "183",
-                    "measuredW": "112",
+                    "measuredW": "113",
                     "measuredH": "32",
                     "x": "472",
                     "y": "2255",
@@ -4423,7 +4423,7 @@
                     "typeID": "TextInput",
                     "zOrder": "243",
                     "w": "183",
-                    "measuredW": "60",
+                    "measuredW": "61",
                     "measuredH": "32",
                     "x": "472",
                     "y": "2291",
@@ -4494,7 +4494,7 @@
                     "ID": "248",
                     "typeID": "Label",
                     "zOrder": "248",
-                    "measuredW": "224",
+                    "measuredW": "225",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2622",
@@ -4525,7 +4525,7 @@
                     "typeID": "Label",
                     "zOrder": "250",
                     "w": "14",
-                    "measuredW": "13",
+                    "measuredW": "14",
                     "measuredH": "21",
                     "x": "136",
                     "y": "2624",
@@ -4642,7 +4642,7 @@
                     "typeID": "Label",
                     "zOrder": "258",
                     "w": "574",
-                    "measuredW": "472",
+                    "measuredW": "473",
                     "measuredH": "25",
                     "x": "166",
                     "y": "2707",
@@ -4700,7 +4700,7 @@
                     "ID": "262",
                     "typeID": "Label",
                     "zOrder": "262",
-                    "measuredW": "13",
+                    "measuredW": "14",
                     "measuredH": "21",
                     "x": "136",
                     "y": "2774",
@@ -4715,7 +4715,7 @@
                     "typeID": "TextInput",
                     "zOrder": "263",
                     "w": "183",
-                    "measuredW": "126",
+                    "measuredW": "127",
                     "measuredH": "32",
                     "x": "886",
                     "y": "2771",
@@ -4747,7 +4747,7 @@
                     "typeID": "TextInput",
                     "zOrder": "265",
                     "w": "183",
-                    "measuredW": "68",
+                    "measuredW": "69",
                     "measuredH": "32",
                     "x": "888",
                     "y": "2843",
@@ -4769,7 +4769,7 @@
                     "y": "2802",
                     "properties": {
                         "size": "17",
-                        "text": "随着应用的增长，在你的数据库里执行简单的查询语句已经没法找到你想要"
+                        "text": "随着应用的增长，在你的数据库里执行简单的查询语句已经难以找到你想要"
                     }
                 },
                 {
@@ -4777,7 +4777,7 @@
                     "typeID": "Label",
                     "zOrder": "267",
                     "w": "574",
-                    "measuredW": "565",
+                    "measuredW": "566",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2827",
@@ -4791,13 +4791,13 @@
                     "typeID": "Label",
                     "zOrder": "268",
                     "w": "574",
-                    "measuredW": "272",
+                    "measuredW": "238",
                     "measuredH": "25",
                     "x": "165",
                     "y": "2854",
                     "properties": {
                         "size": "17",
-                        "text": "它们之间都有属于自己的不同之处。"
+                        "text": "它们之间都有各自的不同之处。"
                     }
                 },
                 {
@@ -4819,7 +4819,7 @@
                     "typeID": "Label",
                     "zOrder": "270",
                     "w": "203",
-                    "measuredW": "139",
+                    "measuredW": "140",
                     "measuredH": "25",
                     "x": "802",
                     "y": "2357",
@@ -4864,13 +4864,13 @@
                     "typeID": "Label",
                     "zOrder": "273",
                     "w": "574",
-                    "measuredW": "549",
+                    "measuredW": "516",
                     "measuredH": "25",
                     "x": "803",
                     "y": "2386",
                     "properties": {
                         "size": "17",
-                        "text": "了解 REST 以及学习如何创建 RESTful API，记得去阅读由 *Roy Fielding*"
+                        "text": "了解 REST 并学习如何编写 RESTful API，记得去阅读 *Roy Fielding*"
                     }
                 },
                 {
@@ -4878,13 +4878,13 @@
                     "typeID": "Label",
                     "zOrder": "274",
                     "w": "574",
-                    "measuredW": "276",
+                    "measuredW": "260",
                     "measuredH": "25",
                     "x": "803",
                     "y": "2410",
                     "properties": {
                         "size": "17",
-                        "text": "撰写的原始论文中涉及 REST 的部分"
+                        "text": "撰写的原论文中关于 REST 的部分"
                     }
                 },
                 {
@@ -4935,7 +4935,7 @@
                     "ID": "278",
                     "typeID": "Label",
                     "zOrder": "278",
-                    "measuredW": "13",
+                    "measuredW": "14",
                     "measuredH": "21",
                     "x": "776",
                     "y": "2479",
@@ -4964,7 +4964,7 @@
                     "typeID": "TextInput",
                     "zOrder": "280",
                     "w": "210",
-                    "measuredW": "62",
+                    "measuredW": "63",
                     "measuredH": "32",
                     "x": "386",
                     "y": "2400",
@@ -4980,7 +4980,7 @@
                     "typeID": "TextInput",
                     "zOrder": "281",
                     "w": "210",
-                    "measuredW": "179",
+                    "measuredW": "180",
                     "measuredH": "32",
                     "x": "386",
                     "y": "2436",
@@ -5089,7 +5089,7 @@
                     "typeID": "Label",
                     "zOrder": "288",
                     "w": "14",
-                    "measuredW": "13",
+                    "measuredW": "14",
                     "measuredH": "21",
                     "x": "760",
                     "y": "2931",
@@ -5178,7 +5178,7 @@
                     "typeID": "Label",
                     "zOrder": "294",
                     "w": "574",
-                    "measuredW": "152",
+                    "measuredW": "153",
                     "measuredH": "25",
                     "x": "789",
                     "y": "3240",
@@ -5207,7 +5207,7 @@
                     "typeID": "Label",
                     "zOrder": "296",
                     "w": "280",
-                    "measuredW": "125",
+                    "measuredW": "126",
                     "measuredH": "25",
                     "x": "789",
                     "y": "2998",
@@ -5281,7 +5281,7 @@
                     "typeID": "TextInput",
                     "zOrder": "301",
                     "w": "183",
-                    "measuredW": "75",
+                    "measuredW": "76",
                     "measuredH": "32",
                     "x": "403",
                     "y": "2971",
@@ -5313,7 +5313,7 @@
                     "typeID": "TextInput",
                     "zOrder": "303",
                     "w": "183",
-                    "measuredW": "66",
+                    "measuredW": "67",
                     "measuredH": "32",
                     "x": "405",
                     "y": "3043",
@@ -5359,7 +5359,7 @@
                     "typeID": "Label",
                     "zOrder": "306",
                     "w": "282",
-                    "measuredW": "203",
+                    "measuredW": "204",
                     "measuredH": "25",
                     "x": "787",
                     "y": "3119",
@@ -5425,7 +5425,7 @@
                     "properties": {
                         "bold": "true",
                         "size": "17",
-                        "text": "看看图数据库 (Graph Databases)"
+                        "text": "了解图数据库 (Graph Databases)"
                     }
                 },
                 {
@@ -5464,13 +5464,13 @@
                     "typeID": "Label",
                     "zOrder": "313",
                     "w": "574",
-                    "measuredW": "561",
+                    "measuredW": "544",
                     "measuredH": "25",
                     "x": "267",
                     "y": "3356",
                     "properties": {
                         "size": "17",
-                        "text": "再说一次，这不是必须的，不过你应该至少对它有一些了解，至少知道它们"
+                        "text": "再一次，这不是必须的，不过你应该至少对它有一些了解，至少知道它们"
                     }
                 },
                 {
@@ -5566,7 +5566,7 @@
                     "ID": "319",
                     "typeID": "Label",
                     "zOrder": "319",
-                    "measuredW": "17",
+                    "measuredW": "18",
                     "measuredH": "22",
                     "x": "234",
                     "y": "3452",
@@ -5596,7 +5596,7 @@
                     "ID": "321",
                     "typeID": "Label",
                     "zOrder": "321",
-                    "measuredW": "547",
+                    "measuredW": "548",
                     "measuredH": "25",
                     "x": "262",
                     "y": "3476",
@@ -5609,7 +5609,7 @@
                     "ID": "322",
                     "typeID": "Label",
                     "zOrder": "322",
-                    "measuredW": "94",
+                    "measuredW": "95",
                     "measuredH": "26",
                     "x": "953",
                     "y": "151",
@@ -5624,7 +5624,7 @@
                     }
                 },
                 {
-                    "ID": "325",
+                    "ID": "323",
                     "typeID": "Paragraph",
                     "zOrder": "323",
                     "w": "392",

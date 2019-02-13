@@ -40,20 +40,20 @@
                     "y": "246",
                     "properties": {
                         "size": "24",
-                        "text": "这个路线图的本意是让你对整体有一个大致的了解，并能在当你为接下来需要学习"
+                        "text": "这个路线图的本意是让你对这个领域有一个大致的了解，并能在你对接下来要学习"
                     }
                 },
                 {
                     "ID": "3",
                     "typeID": "Label",
                     "zOrder": "3",
-                    "measuredW": "880",
+                    "measuredW": "857",
                     "measuredH": "32",
                     "x": "245",
                     "y": "282",
                     "properties": {
                         "size": "24",
-                        "text": "什么而感到困惑时引导你，而不是鼓励你去学习那些时尚和潮流的东西 (what is hip "
+                        "text": "什么感到困惑时引导你，而不是鼓励你去学习那些热门和潮流的东西 (what is hip "
                     }
                 },
                 {
@@ -66,7 +66,7 @@
                     "y": "317",
                     "properties": {
                         "size": "24",
-                        "text": "and trendy)。你应该对关于 *为什么一个工具在某些场景下比另一个更适合使用有*"
+                        "text": "and trendy)。你应该对 *为什么一个工具在某些场景下比另一个更适合使用有属于*"
                     }
                 },
                 {
@@ -79,14 +79,14 @@
                     "y": "353",
                     "properties": {
                         "size": "24",
-                        "text": "*自己的理解 (grow some understanding)，并记住时尚和潮流永远不意味着它最适*"
+                        "text": "*自己的理解 (grow some understanding)，并记住热门和潮流永远不意味着它最适*"
                     }
                 },
                 {
                     "ID": "6",
                     "typeID": "Label",
                     "zOrder": "6",
-                    "measuredW": "405",
+                    "measuredW": "406",
                     "measuredH": "32",
                     "x": "245",
                     "y": "389",
@@ -99,7 +99,7 @@
                     "ID": "7",
                     "typeID": "Label",
                     "zOrder": "7",
-                    "measuredW": "94",
+                    "measuredW": "95",
                     "measuredH": "26",
                     "x": "1020",
                     "y": "190",
