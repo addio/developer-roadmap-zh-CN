@@ -6,7 +6,7 @@
 
 > 译注：若您是繁体中文/正体中文使用者，或更倾向于使用台湾的本地化术语，可以查看 [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) 维护的版本；若您需要查阅该作者之前版本的路线图，可以查看 [z-jingjie/developer-roadmap-zh-CN](https://github.com/z-jingjie/developer-roadmap-zh-CN) 维护的版本。
 
-接下来你将会看到一组图表，它们展示了成为前端开发、后端开发或者 devops 时可以选择的路线以及技术。这些图表是我为我的一位老教授制作的，他想要分享一些关于它们的概况给他的大学生们。
+接下来你将会看到一组图表，它们展示了成为前端开发、后端开发或者 devops 时可以选择的路线以及技术。这些图表是我为我的一位老教授制作的，他想要分享一些它们的概况给他的大学生。
 
 <sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
