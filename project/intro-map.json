@@ -8,23 +8,23 @@
                     "zOrder": "0",
                     "measuredW": "347",
                     "measuredH": "40",
-                    "x": "441",
+                    "x": "491",
                     "y": "74",
                     "properties": {
                         "bold": "true",
                         "size": "32",
-                        "text": "Web Developer in 2018"
+                        "text": "Web Developer in 2019"
                     }
                 },
                 {
                     "ID": "1",
                     "typeID": "Arrow",
                     "zOrder": "1",
-                    "w": "56",
+                    "w": "75",
                     "h": "129",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "633",
+                    "x": "683",
                     "y": "230",
                     "properties": {
                         "color": "2848996",
@@ -36,12 +36,12 @@
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.4809160305343512,
-                            "y": 0.198473282442748
+                            "x": 0.4787915073918851,
+                            "y": 0.19568921844056555
                         },
                         "p2": {
-                            "x": 49,
-                            "y": 127
+                            "x": 73,
+                            "y": 128
                         },
                         "shape": "bezier"
                     }
@@ -54,7 +54,7 @@
                     "h": "131",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "468",
+                    "x": "518",
                     "y": "229",
                     "properties": {
                         "color": "2848996",
@@ -83,7 +83,7 @@
                     "w": "132",
                     "measuredW": "50",
                     "measuredH": "32",
-                    "x": "391",
+                    "x": "441",
                     "y": "367",
                     "properties": {
                         "align": "center",
@@ -98,7 +98,7 @@
                     "zOrder": "4",
                     "measuredW": "160",
                     "measuredH": "28",
-                    "x": "539",
+                    "x": "589",
                     "y": "189",
                     "properties": {
                         "bold": "true",
@@ -110,7 +110,7 @@
                     "ID": "5",
                     "typeID": "TextInput",
                     "zOrder": "5",
-                    "w": "258",
+                    "w": "294",
                     "measuredW": "127",
                     "measuredH": "32",
                     "x": "68",
@@ -126,11 +126,11 @@
                     "ID": "6",
                     "typeID": "TextInput",
                     "zOrder": "6",
-                    "w": "259",
+                    "w": "295",
                     "measuredW": "50",
                     "measuredH": "32",
                     "x": "67",
-                    "y": "116",
+                    "y": "353",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -142,16 +142,16 @@
                     "ID": "7",
                     "typeID": "TextInput",
                     "zOrder": "7",
-                    "w": "259",
-                    "measuredW": "196",
+                    "w": "295",
+                    "measuredW": "187",
                     "measuredH": "32",
                     "x": "67",
-                    "y": "153",
+                    "y": "391",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "HTTP/HTTPS 与 APIs"
+                        "text": "HTTP/HTTPS 与 API"
                     }
                 },
                 {
@@ -172,16 +172,16 @@
                     "ID": "9",
                     "typeID": "TextInput",
                     "zOrder": "9",
-                    "w": "259",
+                    "w": "295",
                     "measuredW": "176",
                     "measuredH": "32",
                     "x": "67",
-                    "y": "191",
+                    "y": "120",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "基础命令行操作技能"
+                        "text": "基本命令行操作技能"
                     }
                 },
                 {
@@ -190,7 +190,7 @@
                     "zOrder": "10",
                     "measuredW": "34",
                     "measuredH": "25",
-                    "x": "926",
+                    "x": "976",
                     "y": "41",
                     "properties": {
                         "bold": "true",
@@ -205,7 +205,7 @@
                     "w": "240",
                     "measuredW": "104",
                     "measuredH": "32",
-                    "x": "926",
+                    "x": "976",
                     "y": "84",
                     "properties": {
                         "align": "center",
@@ -219,42 +219,26 @@
                     "typeID": "TextInput",
                     "zOrder": "12",
                     "w": "240",
-                    "measuredW": "86",
+                    "measuredW": "104",
                     "measuredH": "32",
-                    "x": "926",
-                    "y": "120",
-                    "properties": {
-                        "align": "center",
-                        "color": "15658734",
-                        "size": "18",
-                        "text": "可选技能"
-                    }
-                },
-                {
-                    "ID": "13",
-                    "typeID": "TextInput",
-                    "zOrder": "13",
-                    "w": "240",
-                    "measuredW": "86",
-                    "measuredH": "32",
-                    "x": "926",
-                    "y": "156",
+                    "x": "976",
+                    "y": "124",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
                         "size": "18",
-                        "text": "随便选！"
+                        "text": "可选的选项"
                     }
                 },
                 {
-                    "ID": "14",
+                    "ID": "13",
                     "typeID": "Arrow",
-                    "zOrder": "14",
+                    "zOrder": "13",
                     "w": "1",
                     "h": "47",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "614",
+                    "x": "664",
                     "y": "135",
                     "properties": {
                         "color": "6710886",
@@ -278,13 +262,13 @@
                     }
                 },
                 {
-                    "ID": "15",
+                    "ID": "14",
                     "typeID": "TextInput",
-                    "zOrder": "15",
+                    "zOrder": "14",
                     "w": "121",
                     "measuredW": "50",
                     "measuredH": "32",
-                    "x": "599",
+                    "x": "679",
                     "y": "368",
                     "properties": {
                         "align": "center",
@@ -294,14 +278,14 @@
                     }
                 },
                 {
-                    "ID": "16",
+                    "ID": "15",
                     "typeID": "Arrow",
-                    "zOrder": "16",
-                    "w": "1",
-                    "h": "70",
+                    "zOrder": "15",
+                    "w": "2",
+                    "h": "71",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "459",
+                    "x": "509",
                     "y": "407",
                     "properties": {
                         "color": "2848996",
@@ -326,14 +310,14 @@
                     }
                 },
                 {
-                    "ID": "17",
+                    "ID": "16",
                     "typeID": "Arrow",
-                    "zOrder": "17",
+                    "zOrder": "16",
                     "w": "123",
                     "h": "12",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "731",
+                    "x": "811",
                     "y": "373",
                     "properties": {
                         "color": "2848996",
@@ -357,13 +341,13 @@
                     }
                 },
                 {
-                    "ID": "18",
+                    "ID": "17",
                     "typeID": "TextInput",
-                    "zOrder": "18",
+                    "zOrder": "17",
                     "w": "112",
-                    "measuredW": "80",
+                    "measuredW": "81",
                     "measuredH": "32",
-                    "x": "866",
+                    "x": "946",
                     "y": "361",
                     "properties": {
                         "align": "center",
@@ -373,14 +357,14 @@
                     }
                 },
                 {
-                    "ID": "19",
+                    "ID": "18",
                     "typeID": "Arrow",
-                    "zOrder": "19",
-                    "w": "1",
-                    "h": "70",
+                    "zOrder": "18",
+                    "w": "2",
+                    "h": "71",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "649",
+                    "x": "729",
                     "y": "410",
                     "properties": {
                         "color": "2848996",
@@ -405,14 +389,14 @@
                     }
                 },
                 {
-                    "ID": "20",
+                    "ID": "19",
                     "typeID": "Arrow",
-                    "zOrder": "20",
+                    "zOrder": "19",
                     "w": "1",
                     "h": "77",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "917",
+                    "x": "997",
                     "y": "403",
                     "properties": {
                         "color": "2848996",
@@ -437,45 +421,14 @@
                     }
                 },
                 {
-                    "ID": "21",
+                    "ID": "20",
                     "typeID": "TextInput",
-                    "zOrder": "21",
-                    "w": "258",
-                    "measuredW": "122",
+                    "zOrder": "20",
+                    "w": "294",
+                    "measuredW": "70",
                     "measuredH": "32",
                     "x": "68",
-                    "y": "228",
-                    "properties": {
-                        "align": "center",
-                        "color": "16776960",
-                        "size": "18",
-                        "text": "学习研究能力"
-                    }
-                },
-                {
-                    "ID": "22",
-                    "typeID": "TextArea",
-                    "zOrder": "22",
-                    "w": "258",
-                    "h": "121",
-                    "measuredW": "200",
-                    "measuredH": "140",
-                    "x": "68",
-                    "y": "398",
-                    "properties": {
-                        "color": "15658734",
-                        "text": "\n\n创建一个个人页面，浏览相关的开源项目，养成深入探索你所喜欢的项目的习惯，创建开源项目，并为开源项目贡献代码。"
-                    }
-                },
-                {
-                    "ID": "23",
-                    "typeID": "TextInput",
-                    "zOrder": "23",
-                    "w": "258",
-                    "measuredW": "69",
-                    "measuredH": "32",
-                    "x": "68",
-                    "y": "373",
+                    "y": "236",
                     "properties": {
                         "align": "center",
                         "borderStyle": "rectangle",
@@ -485,14 +438,14 @@
                     }
                 },
                 {
-                    "ID": "24",
+                    "ID": "21",
                     "typeID": "TextInput",
-                    "zOrder": "24",
-                    "w": "258",
+                    "zOrder": "21",
+                    "w": "294",
                     "measuredW": "145",
                     "measuredH": "32",
                     "x": "68",
-                    "y": "265",
+                    "y": "159",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -501,74 +454,95 @@
                     }
                 },
                 {
-                    "ID": "25",
+                    "ID": "22",
                     "typeID": "TextInput",
-                    "zOrder": "25",
-                    "w": "258",
+                    "zOrder": "22",
+                    "w": "294",
                     "measuredW": "86",
                     "measuredH": "32",
                     "x": "68",
-                    "y": "301",
+                    "y": "469",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "文本编码"
+                        "text": "字符编码"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "TextInput",
+                    "zOrder": "23",
+                    "w": "294",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "430",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "设计模式"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "TextInput",
+                    "zOrder": "24",
+                    "w": "294",
+                    "measuredW": "199",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "197",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "SOLID、KISS、YAGNI"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "TextInput",
+                    "zOrder": "25",
+                    "w": "294",
+                    "measuredW": "179",
+                    "measuredH": "32",
+                    "x": "68",
+                    "y": "275",
+                    "properties": {
+                        "align": "center",
+                        "borderStyle": "rectangle",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "许可协议 (Licenses)"
                     }
                 },
                 {
                     "ID": "26",
-                    "typeID": "Icon",
+                    "typeID": "TextInput",
                     "zOrder": "26",
-                    "measuredW": "32",
+                    "w": "294",
+                    "measuredW": "291",
                     "measuredH": "32",
-                    "x": "926",
-                    "y": "200",
+                    "x": "68",
+                    "y": "314",
                     "properties": {
-                        "color": "2848996",
-                        "icon": {
-                            "ID": "circle",
-                            "size": "medium"
-                        }
+                        "align": "center",
+                        "borderStyle": "rectangle",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "语义化版本 (Semantic Versioning)"
                     }
                 },
                 {
                     "ID": "27",
                     "typeID": "Label",
                     "zOrder": "27",
-                    "measuredW": "100",
-                    "measuredH": "28",
-                    "x": "964",
-                    "y": "203",
-                    "properties": {
-                        "size": "20",
-                        "text": "来做些事吧"
-                    }
-                },
-                {
-                    "ID": "28",
-                    "typeID": "TextInput",
-                    "zOrder": "28",
-                    "w": "258",
-                    "measuredW": "86",
-                    "measuredH": "32",
-                    "x": "68",
-                    "y": "337",
-                    "properties": {
-                        "align": "center",
-                        "color": "15658734",
-                        "size": "18",
-                        "text": "设计模式"
-                    }
-                },
-                {
-                    "ID": "29",
-                    "typeID": "Label",
-                    "zOrder": "29",
-                    "measuredW": "94",
+                    "measuredW": "95",
                     "measuredH": "26",
-                    "x": "926",
-                    "y": "248",
+                    "x": "976",
+                    "y": "172",
                     "properties": {
                         "text": "翻译：ccloli",
                         "size": "18",
@@ -581,10 +555,10 @@
                 }
             ]
         },
-        "mockupH": "478",
-        "mockupW": "1099",
-        "measuredW": "1166",
-        "measuredH": "519",
+        "mockupH": "460",
+        "mockupW": "1149",
+        "measuredW": "1216",
+        "measuredH": "501",
         "version": "1.0"
     }
 }
