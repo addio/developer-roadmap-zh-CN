@@ -1,13 +1,17 @@
 
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-> Roadmap to becoming a web developer in 2020
+> 2020 年成为 Web 开发工程师之路线图
 
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now/playlists)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+> 译注：本文仅对原文进行原样翻译，文章及图片中提到的个人观点均为原作者之观点。因个人翻译水平有限，翻译文本可能会稍有出入或略带意译。对于可能有明显歧义的地方，会在文后标记英文原文。如果您有翻译改进之建议，欢迎提交 issue 或 PR。提交 issue 与 PR 以改进翻译为主，如果您认为路线图可以改进，建议您向原 repo 提交贡献，谢谢。
+
+> 译注：若您是繁体中文/正体中文使用者，或更倾向于使用台湾的本地化术语，可以查看 [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) 维护的版本；若您需要查阅早期的版本，可以查看 [`2019 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2019-zh-CN)、 [`2018 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2018-zh-CN)；若您需要查阅该作者之前更早版本的路线图，可以查看 [z-jingjie/developer-roadmap-zh-CN](https://github.com/z-jingjie/developer-roadmap-zh-CN) 维护的版本。
+
+接下来你将会看到一组图表，它们展示了你希望成为前端开发、后端开发或者 devops 领域时可以选择的路线以及技术。这些图表是我为我的一位老教授制作的，他想要分享一些它们的概况给他的大学生；同时将它们分享在这里来回馈社区。
 
 ***
 
@@ -25,53 +29,53 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ***
 
-<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+<h3 align="center"><strong>这些路线图的目的</strong></h3>
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+> 这些路线图的目的是让你对这个领域有一个大致的了解，并能在你对接下来要学习什么感到困惑时引导你，而不是鼓励你去学习那些热门和潮流的东西 (what is hip and trendy)。你应该对为什么一个工具在某些场景下比另一个更适合使用有属于自己的理解 (grow some understanding)，并记住热门和潮流永远不意味着它最适合这份工作 (best suited for the job)
 
-<h3 align="center"><strong>Note to Beginners</strong></h3>
+<h3 align="center"><strong>初学者注意</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
+> 这些路线图涵盖了下面列出的所有学习路径。别被吓着了，如果你只是刚开始学习，那么你不需要在一开始就学习所有的内容。我们正在制作这些路线图的初学者版本，并将在 2020 年完成后端与 DevOps 路线图后的不久 [发布](https://roadmap.sh)。
 
 ***
 
-If you think that these can be improved in any way, please do suggest.
+如果你觉得这些内容有需要改进的地方，欢迎提出。
 
-## Introduction
+## 引言
 
 ![Web Developer Roadmap Introduction](./img/intro.png)
 
-## Frontend Roadmap
+## 前端路线图
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
 ![Frontend Roadmap](./img/frontend.png?year-2020-2)
 
-## Back-end Roadmap 
+## 后端路线图
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
 ![Back-end Roadmap](./img/backend.png?year-2020-2)
 
-## DevOps Roadmap
+## DevOps 路线图
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
 ![DevOps Roadmap](./img/devops.png)
 
-## 🚦 Wrap Up
+## 🚦 文末唠叨
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+如果你觉得这些路线图可以改进，欢迎你在 issue 里讨论。此外，我也会继续改进它，所以你可能会想要 watch 这个 repo，或者订阅 [roadmap.sh](http://roadmap.sh) 来回顾。
 
-## 🙌 Contribution
+## 🙌 贡献
 
-> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
+> 请浏览 [贡献指南](./CONTRIBUTING.md) 以了解如何更新路线图
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- 提交改进的 pull request
+- 在 issues 讨论建议
+- 分享给大家
+- 和我联系提供反馈 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
-## License
+## 许可协议
 
-Have a look at the [license file](./LICENSE) for details
+请阅读 [许可协议文件](./LICENSE) 以了解详情
