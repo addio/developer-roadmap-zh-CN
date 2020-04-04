@@ -7,6 +7,13 @@
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now/playlists)
 
+
+***
+
+✨ 此项目已在原 repo 中提供 [社区维护的官方中文版本](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)，由于此前已有其他用户协助翻译并提交，且本人对后端开发与 DevOps 并不是特别了解，所以这里的翻译暂时不会被合并至原项目中。您可以前往 [原项目](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese) 查看已翻译的线路图，也可在原项目上提供或改进翻译。此 repo 后续应该还是会按照自己的习惯提供翻译
+
+***
+
 > 译注：本文仅对原文进行原样翻译，文章及图片中提到的个人观点均为原作者之观点。因个人翻译水平有限，翻译文本可能会稍有出入或略带意译。对于可能有明显歧义的地方，会在文后标记英文原文。如果您有翻译改进之建议，欢迎提交 issue 或 PR。提交 issue 与 PR 以改进翻译为主，如果您认为路线图可以改进，建议您向原 repo 提交贡献，谢谢。
 
 > 译注：若您是繁体中文/正体中文使用者，或更倾向于使用台湾的本地化术语，可以查看 [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) 维护的版本；若您需要查阅早期的版本，可以查看 [`2019 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2019-zh-CN)、 [`2018 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2018-zh-CN)；若您需要查阅该作者之前更早版本的路线图，可以查看 [z-jingjie/developer-roadmap-zh-CN](https://github.com/z-jingjie/developer-roadmap-zh-CN) 维护的版本。
