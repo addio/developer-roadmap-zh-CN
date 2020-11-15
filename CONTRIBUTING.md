@@ -30,3 +30,6 @@
   对于你想要添加的内容，可能会进行一些讨论。每个 pull request 只提交一个独立的更改，将会方便每一个参与讨论的人。</p>
 - 编写有意义的 commit 信息
 - 在新建 issue 或者 pull request 前先浏览已有的 issue / pull request
+
+## Note
+By contributing to this project, you agree to the terms listed in the [LICENSE](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE)
