@@ -15,6 +15,14 @@
 
 ***
 
+> 来自译者的个人广告  
+> **[[AD] 网易云音乐长期招聘](https://gist.github.com/222159b3f5962b4082f7e12127d5e777)**  
+> 
+> 网易云音乐常年招收前端开发，工作地点以杭州为主  
+> 若有意加入云音乐，请发送简历及个人信息至 [cc(at)front.dog](mailto:cc@front.dog?subject=%E3%80%90%E4%BA%91%E9%9F%B3%E4%B9%90%E7%A4%BE%E6%8B%9B%E3%80%91%5B%E5%A7%93%E5%90%8D%5D-%5B%E8%81%8C%E4%BD%8D%5D)  
+
+***
+
 > 译注：本文仅对原文进行原样翻译，文章及图片中提到的个人观点均为原作者之观点。因个人翻译水平有限，翻译文本可能会稍有出入或略带意译。对于可能有明显歧义的地方，会在文后标记英文原文。如果您有翻译改进之建议，欢迎提交 issue 或 PR。提交 issue 与 PR 以改进翻译为主，如果您认为路线图可以改进，建议您向原 repo 提交贡献，谢谢。
 
 > 译注：若您是繁体中文/正体中文使用者，或更倾向于使用台湾的本地化术语，可以查看 [goodjack/developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) 维护的版本；若您需要查阅早期的版本，可以查看 [`2019 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2019-zh-CN)、 [`2018 年版`](https://github.com/ccloli/developer-roadmap-zh-CN/tree/2018-zh-CN)；若您需要查阅该作者之前更早版本的路线图，可以查看 [z-jingjie/developer-roadmap-zh-CN](https://github.com/z-jingjie/developer-roadmap-zh-CN) 维护的版本。
